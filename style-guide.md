@@ -13,13 +13,13 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Moderate cyan: hsl(176, 50%, 47%)
-- Dark cyan: hsl(176, 72%, 28%)
+- Green 400: hsl(176, 50%, 47%)
+- Green 700: hsl(176, 72%, 28%)
 
 ### Neutral
 
 - Black: hsl(0, 0%, 0%)
-- Dark gray: hsl(0, 0%, 48%)
+- Gray 500: hsl(0, 0%, 48%)
 
 ## Typography
 
